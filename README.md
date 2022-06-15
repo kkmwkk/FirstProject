@@ -1,38 +1,53 @@
-## 첫번째 프로젝트
+# CHAEUM PROJECT
 
-소스코드 블록은 다음과 같이 작성할 수 있습니다.
+## ✨ Description
 
-```c
-#include <stido.h>
-
-int main(void){
-  prinf("Hello World!");
-  retrun 0;
-  
-}
+```sh
+GUI를 이용하여 학생식당에서 실시간으로 업데이트해서 학생들이 메뉴를 확인할 수 있는 앱
 ```
 
-링크는 다음과 같이 작성할 수 있습니다.
 
-[블로그 주소](http://www.naver.com)
 
-* 깃 튜토리얼
-  * 깃 Clone
-  * 깃 Pull
-  * 깃 Commit
-    * 깃 Commit 1)
-    * 깃 Commit 2)
+## :pushpin: Project Goal
 
-인용 구문은 다음과 같이 작성할 수 있습니다.
+```sh
+ 남서울대학교 학생식당 특성상 메뉴를 확인하려면 식당에 직접 갈 수 밖에 없었던 불편함이 존재했다.
+ 실시간으로 앱을 활용하여 메뉴를 확인할 수 있으면 좋겠다는 생각에 프로젝트를 시작했다.
+```
 
-> '공부합시다.' - 나동빈 - 
 
-이름|영어|정보|수학
----|---|---|---|
-나동빈|98점|87점|100점|
+#### Tech Stack
 
-강조는 다음과 같이 할 수 있습니다.
-**치킨** 먹다가 ~~두드러기~~ 났어요. ㅠㅠ
++ FE(Front-End)
 
+   - HTML(Hyper Text Markup Langage)
+   - CSS(Cascading Style Sheets)
+   - Javascript
+   
+
++ BE(Back-End)
+
+   - Language : PHP, C#
+   - WAS(Web-Application-Server) : Apache
+   - Database
+     * RDS : Relational Database Service
+   - Developer tool
+     * PHP : Visual Studio Code
+
++ Server
+
+   - AWS EC2
+
++ FTP
+
+   - FileZila
+
+
+
+
+
+  
+
+ 
 
 
