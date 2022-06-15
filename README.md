@@ -16,6 +16,26 @@ Backend: 🐺 **An hyeong kwan**
 
 Frontend : 🐱 **Jeong Seung Pil**
 
+## :mag: Overview
+
+### 1. GUI를 이용하여 식당에서 실시간으로 메뉴 정리
+
+<center>
+    <img src="./READMEFILE/01.png" alt="CHAEUM"/>
+</center>
+C#으로 구현한 GUI.exe 파일을 이용하여 채움 식당 매니저님이 메뉴를 등록하여, 우리의 RDS 데이터베이스에 전송한다.
+
+<br>
+
+### 2. RDS 데이터베이스 값들이 <tr> 요소에 삽입되어 학생들이 APP을 통해서 메뉴를 확인할 수 있다.
+
+<center>
+    <img src="./READMEFILE/02.jpeg" alt="CHAEUM"/>
+</center>
+
+
+<br>
+
 
 
 
