@@ -8,7 +8,7 @@ GUI를 이용하여 학생식당에서 실시간으로 업데이트해서 학생
 
 ## 🤼‍♂️ Author
 
-Team Leader : 🐯**Lee Gun**
+Team Leader : 🐯[**Lee Gun**](https://github.com/quatch1247)
 
 Backend : 🐶 **Jeon Min Woo**
 
