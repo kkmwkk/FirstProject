@@ -12,9 +12,9 @@ Team Leader : 🐯[**Lee Gun**](https://github.com/quatch1247)
 
 Backend : 🐶 **Jeon Min Woo**
 
-Backend: 🐺 **ang hyung khwan**
+Backend: 🐺 **An hyeong kwan**
 
-Frontend : 🐱 **Jung seng pill**
+Frontend : 🐱 **Jeong Seung Pil**
 
 
 
