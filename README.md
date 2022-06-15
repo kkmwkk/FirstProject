@@ -8,7 +8,7 @@
     <img src="./READMEFILE/03.png" alt="CHAEUM" style="zoom:34%;" align="center"/>
 </center>
 
-### :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be)
+### :clapper:[Demo 시연영상](https://www.youtube.com/shorts/LesUheV14GM)
 
 
 
