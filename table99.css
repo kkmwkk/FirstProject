@@ -1,0 +1,80 @@
+body, h1{ margin: 0; }  /*상단바,바디 글 틀 마진(꽉채우기)*/
+header{ 
+  height: 9rem;  /* 뒷 상단 배경 얼마나 내려오는지*/
+  line-height: 11rem;  /* 상단 글 얼마나 내려오는지*/
+  text-align: center;  /* 상단 글 정렬 어디로할지*/
+  color : inherit;      /* 상단 박스 날짜 글 색*/
+  font-size: 1.6rem;   /*위 상단글(날짜) 크기*/
+} 
+
+img.logo{
+float: left;
+margin-top: 2.8%;
+width: 200;
+}
+/* 상단 고정바 안에 버튼, 글자 > 크기,위치 조절*/
+.container {
+padding-right: 25px;
+padding-left: 25px;
+margin-right: auto;
+margin-left: auto;
+}
+
+/* 상단 고정박스 위치,크기*/
+.headbox {
+position: fixed;
+right: 0;     /*상단 글 오른쪽으로부더 거리*/
+left: 0;      /*상단 글 왼쪽으로부더 거리*/
+height: 10rem;   /* 상단글  고정 네모 얼마나 내려오는지 */
+background-color: hsl(0, 9%, 91%); /* 상단박스 고정하게 만드는거  배경 색*/
+}
+
+
+.table1{ 
+  width: 100%;
+  text-align: center;
+}
+.notice{ /*공지 부분*/
+  background-color: #ce8416;   
+  height: 130px;
+  font-size: 30px;
+} 
+
+
+
+.table2{
+  width: 100%;
+  text-align: center;
+  background-color: rgb(220, 248, 192);
+  border-collapse: separate;
+  border-spacing: 0 ;
+}
+
+img{
+  border-radius: 50px;
+}
+
+.imageKAN{
+  padding: 30px;
+
+}
+.menuKAN{
+  font-size: 40px;
+  font-family: 'Roboto Slab', serif;
+  
+}
+.describeKAN{
+  color: red;
+  font-size: 30px;
+  font-family: 'Alfa Slab One', cursive;
+}
+.priceKAN{
+  font-size: 40px;
+  color: blue;
+  font-family: 'Dancing Script', cursive;
+  }
+
+.emptyKAN{
+    border:0;
+    height: 50px;
+}

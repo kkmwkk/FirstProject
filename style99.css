@@ -1,0 +1,83 @@
+
+body, h1{ margin: 0; }  /*상단바,바디 글 틀 마진(꽉채우기)*/
+header{ 
+  height: 9rem;  /* 뒷 상단 배경 얼마나 내려오는지*/
+  line-height: 11rem;  /* 상단 글 얼마나 내려오는지*/
+  text-align: center;  /* 상단 글 정렬 어디로할지*/
+  color : inherit;      /* 상단 박스 날짜 글 색*/
+  font-size: 1.6rem;   /*위 상단글(날짜) 크기*/
+} 
+
+img.logo{
+float: left;
+margin-top: 2.8%;
+width: 200;
+}
+/* 상단 고정바 안에 버튼, 글자 > 크기,위치 조절*/
+.container {
+padding-right: 25px;
+padding-left: 25px;
+margin-right: auto;
+margin-left: auto;
+}
+
+/* 상단 고정박스 위치,크기*/
+.headbox {
+position: fixed;
+right: 0;     /*상단 글 오른쪽으로부더 거리*/
+left: 0;      /*상단 글 왼쪽으로부더 거리*/
+height: 10rem;   /* 상단글  고정 네모 얼마나 내려오는지 */
+background-color: hsl(0, 9%, 91%); /* 상단박스 고정하게 만드는거  배경 색*/
+}
+
+
+.back1{
+  height: auto;
+}
+table{ /*테이블 전체*/
+  
+  width: 100%;
+  text-align: center;
+  
+  
+}
+.notice{ /*공지 부분*/
+  background-color: #85f33c;   
+  height: 130px;
+  font-size: 30px;
+} 
+td{          /*메뉴 70 가격30 비율로 설정*/
+  width: 30%;
+}
+.sign{  /*메뉴 가격 부분*/
+  height: 130px;
+  background-color: hsl(0, 0%, 94%);
+  font-size: 73px;
+  font-family: 'Hi Melody', cursive;
+}
+.sibal{
+  background-color: rgb(245, 245, 245);
+   height: 250px;  
+   font-size: 70px;
+   font-family: 'Hi Melody', cursive;
+   
+}
+
+img{
+  border-radius: 50px;
+}
+.imageKAN{
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.menuKAN{
+  text-align: right;
+  padding-right: 30px;
+}
+
+.foodname{
+  text-align: right;
+  padding-right: 7%;
+}

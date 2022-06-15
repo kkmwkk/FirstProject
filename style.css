@@ -1,0 +1,132 @@
+body, h1{ 
+  margin: 0;
+
+}  /*상단바,바디 글 틀 마진(꽉채우기)*/
+
+body{
+  background-color:#e4e4e4;
+}
+header{ 
+  height: 9rem;  /* 뒷 상단 배경 얼마나 내려오는지*/
+  line-height: 11rem;  /* 상단 글 얼마나 내려오는지*/
+  text-align: center;  /* 상단 글 정렬 어디로할지*/
+  color : inherit;      /* 상단 박스 날짜 글 색*/
+  font-size: 1.6rem;   /*위 상단글(날짜) 크기*/
+} 
+
+img.logo{
+float: left;
+margin-top: 2.8%;
+width: 200;
+}
+/* 상단 고정바 안에 버튼, 글자 > 크기,위치 조절*/
+.container {
+padding-right: 25px;
+padding-left: 25px;
+margin-right: auto;
+margin-left: auto;
+}
+
+/* 상단 고정박스 위치,크기*/
+.headbox {
+position: fixed;
+right: 0;     /*상단 글 오른쪽으로부더 거리*/
+left: 0;      /*상단 글 왼쪽으로부더 거리*/
+height: 10rem;   /* 상단글  고정 네모 얼마나 내려오는지 */
+background-color: hsl(0, 9%, 91%); /* 상단박스 고정하게 만드는거  배경 색*/
+}
+
+
+.table1{ 
+  width: 100%;
+  text-align: center;
+}
+.notice{ /*공지 부분*/
+  background-color: #fcc3c3;   
+  height: 135px;
+  font-size: 28px;
+} 
+
+
+
+.table2{
+  width: 100%;
+  text-align: center;
+  background-color: rgb(220, 248, 192);
+  border-collapse: collapse;
+  border-spacing: 0 20px ;
+}
+
+img{
+  border-radius: 50px;
+}
+
+.back{
+  background-color:#e4e4e4;
+  }
+
+.center{
+  text-align: center;
+}
+
+.main{
+  display:flex;
+ 
+}
+.boxsize{
+  width: 400px;
+  height: 350px;
+  background-color:#e4e4e4;
+  margin-top:13px;
+  border-radius: 50px;
+  margin-left:20px;
+  
+}
+.boxsize2{
+  width: 60%;
+  height: px;
+  background-color:whitesmoke;
+  margin-right:20px;
+  margin-left:25px;
+  margin-top:12px;
+  border-radius: 24px;
+}
+.textstyle1{
+  font-size: 45px;
+  margin-top: 0px;
+  margin-left:45px;
+  
+
+}
+
+
+.textstyle2{
+  color:grey;
+  font-size: 25px;
+  margin-top:-45px;
+  margin-left:45px;
+  margin-right:45px;
+}
+
+.textstyle3{
+  color: black;
+  font-size: 50px;
+  font-style: unset;
+  margin-top:30px;
+  margin-left:45px;
+}
+
+.wrapper{
+  float: right;
+}
+
+.starsize{
+  margin-top:10px;
+  margin-left:20px;
+}
+
+
+.imagestyle{
+  margin-left:10px;
+  border-radius: 50px;
+}
