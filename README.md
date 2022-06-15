@@ -1,5 +1,13 @@
 # CHAEUM PROJECT (21.10.01 ~ 22. 01. 05)
 
+<h1 align="center">Welcome to CHAEUM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
+<p>
+</p>
+
+<center>
+    <img src="./READMEFILE/03.png" alt="CHAEUM" style="zoom:76%;" align="center"/>
+</center>
+
 ## ✨ Description
 
 ```sh
