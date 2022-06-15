@@ -6,6 +6,18 @@
 GUI를 이용하여 학생식당에서 실시간으로 업데이트해서 학생들이 메뉴를 확인할 수 있는 앱
 ```
 
+## 🤼‍♂️ Author
+
+Team Leader : 🐯**Lee Gun**
+
+Backend : 🐶 **Jeon Min Woo**
+
+Backend: 🐺 **ang hyung khwan**
+
+Frontend : 🐱 **Jung seng pill**
+
+
+
 
 
 ## :pushpin: Project Goal
