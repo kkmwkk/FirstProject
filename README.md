@@ -1,4 +1,4 @@
-# CHAEUM PROJECT
+# CHAEUM PROJECT (21.10.01 ~ 22. 01. 05)
 
 ## ✨ Description
 
