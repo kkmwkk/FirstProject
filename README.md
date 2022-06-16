@@ -22,11 +22,11 @@ GUI를 이용하여 학생식당에서 실시간으로 업데이트해서 학생
 
 Team Leader : 🐯[**Lee Gun**](https://github.com/quatch1247)
 
-Backend : 🐶 **Jeon Min Woo**
+Backend : 🐶 [**Jeon Min Woo**](https://github.com/kkmwkk)
 
 Backend: 🐺 [**An hyeong kwan**](https://github.com/anhyeokwan)
 
-Frontend : 🐱 [**Jeong Seung Pil**]
+Frontend : 🐱 [**Jeong Seung Pil**](https://github.com/SSSpil)
 
 ## :mag: Overview
 
