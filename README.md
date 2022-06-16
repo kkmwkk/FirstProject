@@ -24,9 +24,9 @@ Team Leader : 🐯[**Lee Gun**](https://github.com/quatch1247)
 
 Backend : 🐶 **Jeon Min Woo**
 
-Backend: 🐺 **An hyeong kwan**
+Backend: 🐺 [**An hyeong kwan**](https://github.com/anhyeokwan)
 
-Frontend : 🐱 **Jeong Seung Pil**
+Frontend : 🐱 [**Jeong Seung Pil**]
 
 ## :mag: Overview
 
